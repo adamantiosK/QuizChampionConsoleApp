@@ -1,0 +1,17 @@
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Software Dev Learn.exe
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Software Dev Learn.deps.json
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Software Dev Learn.runtimeconfig.json
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Software Dev Learn.dll
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Software Dev Learn.pdb
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.AssemblyInfoInputs.cache
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.AssemblyInfo.cs
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.csproj.CoreCompileInputs.cache
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.dll
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\refint\Software Dev Learn.dll
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.pdb
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.genruntimeconfig.cache
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\ref\Software Dev Learn.dll
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software Dev Learn.csproj.AssemblyReference.cache
+C:\Users\Adam\OneDrive\Pulpit\Software Dev Learn\Quiz Champion\obj\Debug\net8.0\Software.3DDCC697.Up2Date

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l6d90ycnVgXlZ4p8XUYzBZo5VocFQlZ6sUNNOxN37HIZZHKpfSYcydpRAKYFspTXjcIQpvyuxLRMaazrwjpPeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam\\OneDrive\\Pulpit\\Software Dev Learn\\Quiz Champion\\Software Dev Learn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

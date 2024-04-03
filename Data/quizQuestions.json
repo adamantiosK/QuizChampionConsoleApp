@@ -1,0 +1,173 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does CPU stand for in computer jargon?",
+      "correct_answer": "Central Processing Unit",
+      "incorrect_answers": [
+        "Central Process Unit",
+        "Computer Personal Unit",
+        "Central Processor Unit"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "Which is the largest ocean on Earth?",
+      "correct_answer": "Pacific Ocean",
+      "incorrect_answers": [
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "History",
+      "question": "Who was the first woman to win a Nobel Prize (in 1903)?",
+      "correct_answer": "Marie Curie",
+      "incorrect_answers": [
+        "Emmy Noether",
+        "Rosalind Franklin",
+        "Lise Meitner"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Music",
+      "question": "Who is known as the 'King of Pop'?",
+      "correct_answer": "Michael Jackson",
+      "incorrect_answers": [
+        "Elvis Presley",
+        "Prince",
+        "James Brown"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Television",
+      "question": "In 'The Simpsons', what is the name of Ned Flanders' wife?",
+      "correct_answer": "Maude",
+      "incorrect_answers": [
+        "Martha",
+        "Maudie",
+        "Marge"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Mathematics",
+      "question": "What is the symbol for the 'Pi'?",
+      "correct_answer": "π",
+      "incorrect_answers": [
+        "Ω",
+        "Σ",
+        "Δ"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Sports",
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "correct_answer": "Brazil",
+      "incorrect_answers": [
+        "China",
+        "Italy",
+        "Russia"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "General Knowledge",
+      "question": "Which planet is known as the Red Planet?",
+      "correct_answer": "Mars",
+      "incorrect_answers": [
+        "Jupiter",
+        "Saturn",
+        "Mercury"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Board Games",
+      "question": "How many spaces are there on a standard Monopoly board?",
+      "correct_answer": "40",
+      "incorrect_answers": [
+        "42",
+        "44",
+        "38"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "hard",
+      "category": "History",
+      "question": "In what year did the Wall Street Crash take place?",
+      "correct_answer": "1929",
+      "incorrect_answers": [
+        "1931",
+        "1928",
+        "1930"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Entertainment: Music",
+      "question": "Who sang 'My Way'?",
+      "correct_answer": "Frank Sinatra",
+      "incorrect_answers": [
+        "Elvis Presley",
+        "Michael Bublé",
+        "Tony Bennett"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Gadgets",
+      "question": "Which company developed the video game console called 'GameCube'?",
+      "correct_answer": "Nintendo",
+      "incorrect_answers": [
+        "Sony",
+        "Microsoft",
+        "Sega"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Science: Computers",
+      "question": "What does 'HTTP' stand for?",
+      "correct_answer": "HyperText Transfer Protocol",
+      "incorrect_answers": [
+        "HighText Transfer Protocol",
+        "HyperTransfer Text Protocol",
+        "HyperTech Transfer Protocol"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Geography",
+      "question": "What is the capital city of Spain?",
+      "correct_answer": "Madrid",
+      "incorrect_answers": [
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ]
+    }
+  ]
+}
